@@ -1,7 +1,7 @@
 library(survival)
 library(survminer)
 library(tidyr)
-data = read.csv("C:/users/joash/Downloads/CGGA.mRNAseq_693_clinical.20200506.txt/CGGA.csv")
+data = read.csv("CGGA.mRNAseq_693_clinical.20200506.txt/CGGA.csv")
   
 data$Gender = trimws(data$Gender,which = c("both"))
 data = data %>% drop_na()
