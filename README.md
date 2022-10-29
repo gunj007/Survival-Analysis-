@@ -19,6 +19,9 @@ Kaplan-Meier estimator. It consists of hazard function (which in this case is ca
 The Surv() function takes two times and status as input and creates an object which serves as the input of survfir() function. We pass ~1 in survfit() function
 to ensure that we are telling the function to fit the model on basis of the survival object and have an interrupt. 
 
+Dataset: http://www.cgga.org.cn/download.jsp#mRNAseq_693 -clinical data 
+_CGGA.mRNAseq_693_clinical.20200506.txt 
+
 # here, the survival was checked on the basis of gender:
 ![image](https://user-images.githubusercontent.com/110597928/198853083-7fb48083-9725-4502-b8f0-15ef4e1bec56.png)
 
