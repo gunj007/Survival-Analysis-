@@ -27,7 +27,7 @@ age:![image](https://user-images.githubusercontent.com/110597928/198853065-72055
 
 gender with age:![image](https://user-images.githubusercontent.com/110597928/198853107-b235b0e9-c75c-4e85-b808-6121ba576a91.png)
 
-histology w.r.t. and stage of breast cancer according to gender:![image](https://user-images.githubusercontent.com/110597928/198853144-1152e7d0-5bcd-4b78-b3a5-3973ede440cd.png)
+histology w.r.t. gender and stage of breast cancer according to gender:![image](https://user-images.githubusercontent.com/110597928/198853144-1152e7d0-5bcd-4b78-b3a5-3973ede440cd.png)
 
 race:
 ![image](https://user-images.githubusercontent.com/110597928/198853031-b2f129aa-be4e-466f-ac47-886a2f9ed7b7.png)
